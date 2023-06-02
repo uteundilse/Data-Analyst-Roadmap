@@ -77,7 +77,7 @@
 | 冲刺阶段 | 简历+面试 | 找工作 | 5 |
 
 
-# 补充资料
+# 补充资料 🔗
 - [Kaggle](https://www.kaggle.com/)
 - [天池](https://tianchi.aliyun.com/)
 - [Google dataset](https://datasetsearch.research.google.com/)
