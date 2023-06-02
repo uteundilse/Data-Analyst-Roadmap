@@ -37,14 +37,14 @@
     - **[House Prices](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/house_prices.ipynb)**:    
 
   - 数据分析项目 📊
-    - **[Glassdoor平台数据分析招聘岗位分析](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Data%20Analyst%20Jobs.ipynb) Python**
+    - **[Glassdoor平台数据分析招聘岗位分析](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Data%20Analyst%20Jobs.ipynb)**
 
     
-    - **[星巴克促销活动分析](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Starbucks.ipynb) Python**
+    - **[星巴克促销活动分析](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Starbucks.ipynb)**
 
 
   - 报表制作
-    - **酒店经营可视化看板 Power BI**
+    - **酒店经营可视化看板**
 
 
   - 数据思维
