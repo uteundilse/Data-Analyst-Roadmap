@@ -73,7 +73,7 @@
 | 第二阶段 | 数据库SQL | MySQL | 10 |
 | 第三阶段 | Python | Pyhton + Pandas + Numpy + Matplotlib + Seaborn + Scikit-learn | 15 |
 | 第四阶段 | 可视化+数据分析方法 | Power BI + 数据分析方法 | 5 |
-| 第五阶段 | 数据分析项目+数据思维 | 数据分析项目 + Machine Learning | 10 |
+| 第五阶段 | 数据分析项目+数据思维 | 数据分析项目 | 10 |
 | 冲刺阶段 | 简历+面试 | 找工作 | 5 |
 
 
