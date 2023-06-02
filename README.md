@@ -1,6 +1,8 @@
 # Data-Analyst-Roadmap 📊
 **分享我的数据分析纯自学完整路线**
 
+
+
 # 学习路径 ⚙️
 
 ### 第一阶段： 初识数据
@@ -52,10 +54,14 @@
     - [《增长黑客》](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Data%20Thinking/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2.epub)
     - [《麦肯锡结构化战略思维》](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Data%20Thinking/%E9%BA%A6%E8%82%AF%E9%94%A1%E7%BB%93%E6%9E%84%E5%8C%96%E6%88%98%E7%95%A5%E6%80%9D%E7%BB%B4%EF%BC%9A%E5%A6%82%E4%BD%95%E6%83%B3%E6%B8%85%E6%A5%9A%E3%80%81%E8%AF%B4%E6%98%8E%E7%99%BD%E3%80%81%E5%81%9A%E5%88%B0%E4%BD%8D.epub)
 
+
+
 ### 冲刺阶段
   - 简历
   - 刷题
   - 面试
+
+
 
 # 时间安排
 
