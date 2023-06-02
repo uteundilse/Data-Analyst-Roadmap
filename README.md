@@ -28,7 +28,7 @@
   - 《数据分析之道：用数据思维指导业务实战》
   - 《数据分析思维：分析方法和业务知识》
 
-### 第五阶段：项目+数据思维 
+### 第五阶段：[项目+数据思维](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/README.md) 
   - Kaggle入门项目 （练习）
     - **[Titanic-prediction](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Titanic_prediction.ipynb)**:  
       
