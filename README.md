@@ -59,6 +59,8 @@
 ### 冲刺阶段 🛰️
   - 简历
   - 刷题
+    - [力扣网](https://leetcode.cn/)
+    - [牛客网](https://www.nowcoder.com/)
   - 面试
 
 
@@ -75,4 +77,10 @@
 | 冲刺阶段 | 简历+面试 | 找工作 | 5 |
 
 
-#
+# 补充资料
+- [Kaggle](https://www.kaggle.com/)
+- [天池](https://tianchi.aliyun.com/)
+- [Google dataset](https://datasetsearch.research.google.com/)
+- [数据分析书籍 合集](https://ds.apachecn.org/#/)
+- [Datawhale社区](https://github.com/datawhalechina)
+- [CS 50](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4)
