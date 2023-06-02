@@ -61,11 +61,11 @@
 
 | 阶段 | 目标 | 内容 | 时间 (天) |
 | --- | --- | --- | --- |
-| 第一阶段 | 初识数据 | excel | 统计学 | 5 |
+| 第一阶段 | 初识数据 | excel + 统计学 | 5 |
 | 第二阶段 | 数据库SQL | MySQL | 10 |
-| 第三阶段 | Python | Pyhton | Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | 15 |
-| 第四阶段 | 可视化+数据分析方法 | Power BI | 数据分析方法 | 5 |
-| 第五阶段 | 数据分析项目+数据思维 | 数据分析项目 | Machine Learning | 10 |
+| 第三阶段 | Python | Pyhton + Pandas + Numpy + Matplotlib + Seaborn + Scikit-learn | 15 |
+| 第四阶段 | 可视化+数据分析方法 | Power BI + 数据分析方法 | 5 |
+| 第五阶段 | 数据分析项目+数据思维 | 数据分析项目 + Machine Learning | 10 |
 | 冲刺阶段 | 简历+面试 | 找工作 | 5 |
 
 
