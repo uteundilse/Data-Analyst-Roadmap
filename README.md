@@ -84,3 +84,4 @@
 - [数据分析书籍 合集](https://ds.apachecn.org/#/)
 - [Datawhale社区](https://github.com/datawhalechina)
 - [CS 50](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4)
+- [Data Structures](https://www.javatpoint.com/data-structure-tutorial)
