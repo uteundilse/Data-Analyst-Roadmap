@@ -10,6 +10,7 @@
 ### 第二阶段：数据库SQL
   - MySQL：[mosh-SQL入门到中级](https://www.bilibili.com/video/BV1UE41147KC/?spm_id_from=333.999.0.0&vd_source=048f2d3fb232702db4d8b69ac02f4feb)
   - [《MySQL必知必会》](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/SQL/MySQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A.pdf)
+    - [个人笔记](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/MySQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A%20--%E5%85%A8%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
   - [《SQL进阶教程》](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/SQL/SQL%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B%20(MICK)%20.pdf)
 
 ### 第三阶段：Python
@@ -60,9 +61,22 @@
       - 数据探索与建模:利用相关系数矩阵和回归分析发现会员收入、活动推送途径及活动类型等影响客户消费。K-means聚类将客户分五组,分析不同特征和响应。
 
       - 项目结果:发现影响客户消费和品牌忠诚的关键因素,为制定针对性营销计划提供决策支持。
-      - 
-  - 报表制作
 
+  - 报表制作
+    - **酒店经营可视化看板 Power BI**
+
+      - 项目背景:项目通过构建指标体系，为酒店提供一个数据分析和可视化报表，将数据转化为直观报表展示，实现运营状况的实时监控与管理。帮助管理者深入了解运营情况,提高决策的准确性与效率,实现业务目标。
+
+      - 搭建指标体系:根据酒店业务需求及管理流程，设计和建立指标体系。以经营收入、酒店入住率、GOP、ADR及RevPAR等作为关键指标，确保能全面反映运营效率与效果。
+
+      - 数据处理:对原始数据进行清洗、转换和整合，构建星型数据仓库模型。设计事实表存储各指标的日常统计数据，维度表定义基本属性。计算并添加同比增长率与利润率等度量值,实现多维度灵活分析。
+
+      - 报表设计与开发:根据指标体系，定制直观的报表结构与界面。选择条形图、折线图、饼图等展示关键指标的历史变化、同期比较与占比。添加报表过滤、指标搜索等功能增强用户体验,实现实时监控与运营管理。
+
+  - 数据思维
+    - 《精益数据分析》
+    - [《增长黑客》](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Data%20Thinking/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2.epub)
+    - [《麦肯锡结构化战略思维》](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Data%20Thinking/%E9%BA%A6%E8%82%AF%E9%94%A1%E7%BB%93%E6%9E%84%E5%8C%96%E6%88%98%E7%95%A5%E6%80%9D%E7%BB%B4%EF%BC%9A%E5%A6%82%E4%BD%95%E6%83%B3%E6%B8%85%E6%A5%9A%E3%80%81%E8%AF%B4%E6%98%8E%E7%99%BD%E3%80%81%E5%81%9A%E5%88%B0%E4%BD%8D.epub)
 
 # 数据分析项目 📊
 
