@@ -8,6 +8,8 @@
 ### 第一阶段： 初识数据
   - Excel：[王佩丰Excel基础教程24讲](https://www.bilibili.com/video/BV1yJ411s7wS/?spm_id_from=333.337.search-card.all.click&vd_source=048f2d3fb232702db4d8b69ac02f4feb)
   - 统计学
+    - 基础
+    - [统计学习方法](https://datawhalechina.github.io/statistical-learning-method-solutions-manual/#/)
 
 ### 第二阶段：数据库SQL
   - MySQL：[mosh-SQL入门到中级](https://www.bilibili.com/video/BV1UE41147KC/?spm_id_from=333.999.0.0&vd_source=048f2d3fb232702db4d8b69ac02f4feb)
