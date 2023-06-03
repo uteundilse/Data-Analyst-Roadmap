@@ -18,6 +18,12 @@
 ### 第三阶段：Python
   - [《Python编程：从入门到实践》](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Python/Python%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
   - [《Python数据科学手册》](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Python/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)
+    - [Python_Cheat_Sheet](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Cheatsheets/Python_Cheat_Sheet.pdf)
+    - [Pandas_Cheat_Sheet](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Cheatsheets/Pandas_Cheat_Sheet.pdf)
+    - [Numpy_Cheat_Sheet](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Cheatsheets/Numpy_Cheat_Sheet.pdf)
+    - [Matplotlib-Cheat_Sheet](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Cheatsheets/Matplotlib-Cheat_Sheet.pdf)
+    - [Seaborn_Cheat_Sheet](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Cheatsheets/Seaborn_Cheat_Sheet.pdf)
+    - [Scikit_Learn_Cheat_Sheet](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Cheatsheets/Scikit_Learn_Cheat_Sheet.pdf)
   - 《利用Python进行数据分析》
   - [《数据科学入门》](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Python/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8.pdf)
 
