@@ -9,7 +9,7 @@
   - Excel：[王佩丰Excel基础教程24讲](https://www.bilibili.com/video/BV1yJ411s7wS/?spm_id_from=333.337.search-card.all.click&vd_source=048f2d3fb232702db4d8b69ac02f4feb)
   - 统计学
     - 基础
-    - [统计学习方法](https://datawhalechina.github.io/statistical-learning-method-solutions-manual/#/)
+    - [《统计学习方法》](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/BOOKS/Data%20Thinking/2012.%E6%9D%8E%E8%88%AA.%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)
 
 ### 第二阶段：数据库SQL
   - MySQL：[mosh-SQL入门到中级](https://www.bilibili.com/video/BV1UE41147KC/?spm_id_from=333.999.0.0&vd_source=048f2d3fb232702db4d8b69ac02f4feb)
