@@ -1,6 +1,6 @@
 # Pandas
 
-### read_csv
+## read_csv
 
 1. 基础导入 — `df = pd.read_csv('test.csv')` 
 2. 指定编码 — `df = pd.read_csv('test.csv',` `encoding = "ISO-8859-1")`
@@ -25,7 +25,7 @@
 8. 不读取特定行
     - 不读取的行号作为列表 — `df = pd.read_csv('IMDB.csv',  skiprows = [1,3,7])`
 
-### read_excel
+## read_excel
 
 1. 安装：`pip install openpyxl`
 2. 读取单张表
