@@ -93,3 +93,7 @@
 - [Datawhale社区](https://github.com/datawhalechina)
 - [CS 50](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4)
 - [Data Structures](https://www.javatpoint.com/data-structure-tutorial)
+- [《数据分析学习笔记-CSDN》](https://blog.csdn.net/qq_34069667/article/details/105402581?spm=1001.2014.3001.5502)
+- [数据分析三剑客-CSDN](https://chen-ac.blog.csdn.net/article/details/122694616)
+- [Python - 100天从新手到大师](https://github.com/uteundilse/Python-100-Days/tree/master)
+- 
